@@ -1,0 +1,14 @@
+//
+// Created by Aruncutean on 22/03/2024.
+//
+
+#ifndef DRONECONTROLLERR_RADIOTRANSMITTER_H
+#define DRONECONTROLLERR_RADIOTRANSMITTER_H
+
+
+class RadioTransmitter {
+
+};
+
+
+#endif //DRONECONTROLLERR_RADIOTRANSMITTER_H

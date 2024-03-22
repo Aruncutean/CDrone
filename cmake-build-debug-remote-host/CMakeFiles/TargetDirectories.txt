@@ -1,0 +1,14 @@
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/install/strip.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/list_install_components.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/install/local.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/rebuild_cache.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/edit_cache.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/install.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/CMakeFiles/untitled3.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/install/strip.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/install.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/install/local.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/rebuild_cache.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/edit_cache.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/list_install_components.dir
+/home/raul/Desktop/con/tmp/tmp.o69bV00YFw/cmake-build-debug-remote-host/RadioLib/CMakeFiles/RadioLib.dir
